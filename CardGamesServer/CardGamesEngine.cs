@@ -1,14 +1,12 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using Amazon.Lambda.Core;
 using CardGamesServer.Helpers;
-using CardGamesServer.Reponses;
 using CardGamesServer.Requests;
 using CardGamesServer.Responses;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
